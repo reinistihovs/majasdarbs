@@ -1,0 +1,16 @@
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\bin\Debug\net5.0\asd123.exe
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\bin\Debug\net5.0\asd123.deps.json
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\bin\Debug\net5.0\asd123.runtimeconfig.json
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\bin\Debug\net5.0\asd123.runtimeconfig.dev.json
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\bin\Debug\net5.0\asd123.dll
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\bin\Debug\net5.0\ref\asd123.dll
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\bin\Debug\net5.0\asd123.pdb
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\obj\Debug\net5.0\asd123.csproj.AssemblyReference.cache
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\obj\Debug\net5.0\asd123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\obj\Debug\net5.0\asd123.AssemblyInfoInputs.cache
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\obj\Debug\net5.0\asd123.AssemblyInfo.cs
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\obj\Debug\net5.0\asd123.csproj.CoreCompileInputs.cache
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\obj\Debug\net5.0\asd123.dll
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\obj\Debug\net5.0\ref\asd123.dll
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\obj\Debug\net5.0\asd123.pdb
+C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\asd123\obj\Debug\net5.0\asd123.genruntimeconfig.cache
