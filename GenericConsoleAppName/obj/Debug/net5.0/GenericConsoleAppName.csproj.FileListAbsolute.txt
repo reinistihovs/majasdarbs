@@ -2,3 +2,8 @@ C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\GenericConsoleAppName\obj\Debug\
 C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\GenericConsoleAppName\obj\Debug\net5.0\GenericConsoleAppName.AssemblyInfoInputs.cache
 C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\GenericConsoleAppName\obj\Debug\net5.0\GenericConsoleAppName.AssemblyInfo.cs
 C:\Users\reinist\Desktop\scripts\LU\majasdarbs1\GenericConsoleAppName\obj\Debug\net5.0\GenericConsoleAppName.csproj.CoreCompileInputs.cache
+C:\Users\MASTER\desktop\majasdarbs\GenericConsoleAppName\obj\Debug\net5.0\GenericConsoleAppName.csproj.AssemblyReference.cache
+C:\Users\MASTER\desktop\majasdarbs\GenericConsoleAppName\obj\Debug\net5.0\GenericConsoleAppName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MASTER\desktop\majasdarbs\GenericConsoleAppName\obj\Debug\net5.0\GenericConsoleAppName.AssemblyInfoInputs.cache
+C:\Users\MASTER\desktop\majasdarbs\GenericConsoleAppName\obj\Debug\net5.0\GenericConsoleAppName.AssemblyInfo.cs
+C:\Users\MASTER\desktop\majasdarbs\GenericConsoleAppName\obj\Debug\net5.0\GenericConsoleAppName.csproj.CoreCompileInputs.cache

@@ -8,3 +8,4 @@ PIELIKTS NO VSTUDIO ༼ つ ◕_◕ ༽つ
 Laipni lūgti paskatīties arī TEST branch.
 
 Šis ir Pull no latest branch.
+asd
